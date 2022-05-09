@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'c53e45a4412b6cab251c6148c6270e59', // Write here your API Key
-	weatherIcons: 'dark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Reddit',
-			icon: 'gitlab',
-			link: 'https://www.reddit.com/',
+			name: 'tryhackme',
+			icon: 'cloud',
+			link: 'https://tryhackme.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Whatsapp',
+			icon: 'message-square',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '3',
@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Lofi',
-					link: 'https://music.youtube.com/playlist?list=PLwVMh0hzndikylOFku71VGueNajNGFyzX',
+					name: 'Lofi Radio',
+					link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
 				},
 				{
-					name: 'Supermix',
-					link: 'https://music.youtube.com/playlist?list=RDTMAK5uy_kset8DisdE7LSD4TNjEVvrKRTmG7a56sY',
+					name: 'Lofi',
+					link: 'https://music.youtube.com/playlist?list=PLwVMh0hzndikylOFku71VGueNajNGFyzX',
 				},
 				{
 					name: 'khai dreams',
